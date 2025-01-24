@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-white-500">© 2024 Ajay Raj. All rights reserved.</p>
+      <p className="text-white-500">© 2024 Ayush. All rights reserved.</p>
     </footer>
   );
 };
